@@ -1,5 +1,6 @@
 import pandas as pd
 import re
+import json
 
 # Загрузка данных
 df = pd.read_csv('sorted_output.csv')
